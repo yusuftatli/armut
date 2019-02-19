@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Armut.Common\Armut.Common.csproj" />
+    <ProjectReference Include="..\Armut.DataAccess\Armut.DataAccess.csproj" />
+    <ProjectReference Include="..\Armut.Entity\Armut.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

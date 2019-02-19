@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Armut.Models;
+using Armut.Web.UI.Models;
 
-namespace Armut.Controllers
+namespace Armut.Web.UI.Controllers
 {
     public class HomeController : Controller
     {

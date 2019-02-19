@@ -1,6 +1,6 @@
 using System;
 
-namespace Armut.Models
+namespace Armut.Web.UI.Models
 {
     public class ErrorViewModel
     {
